@@ -1,2 +1,2 @@
-zika: zika.c
-	$(CC) zika.c -o zika -Wall -Wextra -pedantic
+zika: zika.cpp
+	$(CC) zika.cpp -o zika -Wall -Wextra -pedantic
