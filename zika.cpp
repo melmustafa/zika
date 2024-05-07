@@ -7,7 +7,7 @@
 #include <termios.h>
 #include <unistd.h>
 
-#define ZIKA_VERSION "0.0.0"
+#define ZIKA_VERSION "0.1.0"
 
 #define CTRL_KEY(k) (k & 0x1f)
 
